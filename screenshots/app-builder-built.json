@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NNX Data & Digital Insight",
+      "hasCanvas": false,
+      "bodyTextLen": 5718,
+      "bodyTextHash": "e0d47583c877d0aa8f77ad74941f655d8ad3da5fb2d8d942904647254f004f74",
+      "bodyTextPrefix": "NNX DATA & DIGITAL INSIGHT Layanan Studio Metode Paket Minta bri",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NNX Data & Digital Insight",
+      "hasCanvas": false,
+      "bodyTextLen": 5678,
+      "bodyTextHash": "0ff1aca9583c6474c9ec1786099f3a0661295a93ba3fb827d3333cb8821758a8",
+      "bodyTextPrefix": "NNX DATA & DIGITAL INSIGHT NNX · DATA & DIGITAL INSIGHT Jasa ana",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

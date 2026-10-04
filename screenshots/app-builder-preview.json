@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NNX Data & Digital Insight",
+      "hasCanvas": false,
+      "bodyTextLen": 5718,
+      "bodyTextHash": "e0d47583c877d0aa8f77ad74941f655d8ad3da5fb2d8d942904647254f004f74",
+      "bodyTextPrefix": "NNX DATA & DIGITAL INSIGHT Layanan Studio Metode Paket Minta bri",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:\n\n- A server/client branch `if (typeof window !== 'undefined')`.\n- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.\n- Date formatting in a user's locale which doesn't match the server.\n- External changing data without sending a snapshot of it along with the HTML.\n- Invalid HTML tag nesting.\n\nIt can also happen if the client has a browser extension installed which messes with the HTML before React loaded.\n\n%s%s https://react.dev/link/hydration-mismatch \n\n  ...\n    <MatchView router={{...}} match={{id:\"//\",ssr:true, ...}}>\n      <CatchBoundary getResetKey={function getResetKey} errorComponent={function AppErrorComponent} ...>\n        <MatchInnerImpl match={{id:\"//\",ssr:true, ...}}>\n          <Lazy>\n            <Home>\n              <div className=\"min-h-dvh ...\">\n                <SiteHeader>\n                <main>\n                  <Hero>\n                  <ServicesSection>\n                  <InsightStudio>\n                  <MethodSection>\n                  <PackagesSection>\n                  <BriefForm>\n                    <section id=\"brief\" className=\"border-t b...\">\n                      <div className=\"mx-auto gr...\">\n                        <div>\n                        <form onSubmit={function onSubmit} className=\"rounded-xl...\">\n                          <div className=\"grid gap-4...\">\n                            <Field label=\"Nama\" htmlFor=\"name\">\n                              <div className={\"grid gap...\"}>\n                                <Label>\n                                <Input id=\"name\" name=\"name\" required={true} autoComplete=\"name\">\n                                  <input\n                                    className=\"h-11 w-full rounded-md bg-paper px-3.5 text-sm text-ink shadow-[0_0_0_1...\"\n                                    id=\"name\"\n                                    name=\"name\"\n                                    required={true}\n                                    autoComplete=\"name\"\n-                                   style={{caret-color:\"transparent\"}}\n                                  >\n                            <Field label=\"Perusahaan...\" htmlFor=\"org\">\n                              <div className={\"grid gap...\"}>\n                                <Label>\n                                <Input id=\"org\" name=\"org\" autoComplete=\"organization\">\n                                  <input\n                                    className=\"h-11 w-full rounded-md bg-paper px-3.5 text-sm text-ink shadow-[0_0_0_1...\"\n                                    id=\"org\"\n                                    name=\"org\"\n                                    autoComplete=\"organization\"\n-                                   style={{caret-color:\"transparent\"}}\n                                  >\n                            <Field label=\"Email\" htmlFor=\"email\">\n                              <div className={\"grid gap...\"}>\n                                <Label>\n                                <Input id=\"email\" name=\"email\" type=\"email\" required={true} autoComplete=\"email\">\n                                  <input\n                                    className=\"h-11 w-full rounded-md bg-paper px-3.5 text-sm text-ink shadow-[0_0_0_1...\"\n                                    id=\"email\"\n                                    name=\"email\"\n                                    type=\"email\"\n                                    required={true}\n                                    autoComplete=\"email\"\n-                                   style={{caret-color:\"transparent\"}}\n                                  >\n                            <Field label=\"WhatsApp\" htmlFor=\"whatsapp\">\n                              <div className={\"grid gap...\"}>\n                                <Label>\n                                <Input id=\"whatsapp\" name=\"whatsapp\" inputMode=\"tel\" autoComplete=\"tel\">\n                                  <input\n                                    className=\"h-11 w-full rounded-md bg-paper px-3.5 text-sm text-ink shadow-[0_0_0_1...\"\n                                    id=\"whatsapp\"\n                                    name=\"whatsapp\"\n                                    inputMode=\"tel\"\n                                    autoComplete=\"tel\"\n-                                   style={{caret-color:\"transparent\"}}\n                                  >\n                            <Field>\n                            <Field label=\"Deadline (...\" htmlFor=\"deadline\">\n                              <div className={\"grid gap...\"}>\n                                <Label>\n                                <Input id=\"deadline\" name=\"deadline\" placeholder=\"Mis. 24 Ok...\">\n                                  <input\n                                    className=\"h-11 w-full rounded-md bg-paper px-3.5 text-sm text-ink shadow-[0_0_0_1...\"\n                                    id=\"deadline\"\n                                    name=\"deadline\"\n                                    placeholder=\"Mis. 24 Oktober\"\n-                                   style={{caret-color:\"transparent\"}}\n                                  >\n                          <Field label={\"Pertanya...\"} htmlFor=\"message\" className=\"mt-4\">\n                            <div className=\"grid gap-1...\">\n                              <Label>\n                              <Textarea id=\"message\" name=\"message\" required={true} placeholder=\"Contoh: Ka...\">\n                                <textarea\n                                  className=\"min-h-32 w-full rounded-lg bg-paper px-3.5 py-3 text-sm text-ink shadow-[...\"\n                                  id=\"message\"\n                                  name=\"message\"\n                                  required={true}\n                                  placeholder=\"Contoh: Kami ingin tahu SKU mana yang merugikan margin di Jawa, data da...\"\n-                                 style={{caret-color:\"transparent\"}}\n                                >\n                          ...\n                ...\n"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NNX Data & Digital Insight",
+      "hasCanvas": false,
+      "bodyTextLen": 5765,
+      "bodyTextHash": "7fb7e73a41772af8ee69b374b8a19e3d353eec250b3394a6bbc7156141996910",
+      "bodyTextPrefix": "NNX DATA & DIGITAL INSIGHT NNX · DATA & DIGITAL INSIGHT Jasa ana",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
